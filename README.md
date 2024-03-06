@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PrabhuM143/PrabhuM143/output/snake.svg" alt="Snake animation" />
-
-###
